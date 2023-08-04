@@ -19,4 +19,6 @@ sklearn: for machine learning algorithms and data preprocessing
 
 ## How to Run  
 To run the notebook, you need to have Jupyter notebook installed, as well as the libraries mentioned above. Once these are installed, you can clone the repository and run the notebook using Jupyter.  
-![bokeh_plot (1)](https://github.com/AkagiNaoko/CryptoClustering/assets/123340434/40dcc52a-78a0-4c85-89cb-c6348a28bc6c)
+![image](https://github.com/AkagiNaoko/CryptoClustering/assets/123340434/c227ac15-b031-4fc4-a1ca-bcb041996aed)
+![image](https://github.com/AkagiNaoko/CryptoClustering/assets/123340434/d77cf3eb-5bd8-49b8-aac5-829209f6de66)
+
